@@ -4,10 +4,10 @@ Tested with 0.3.7 R2-2
 
 ## Instructions
 
-- Check out this project
-- Place your sa-mp files into the `samp03` directory
-- To build the image run `docker build -t sa-mp .`
-- Start the container with `docker run --net=host -v samp03:/samp sa-mp`
+1. Check out this project
+2. Place your sa-mp files into the `samp03` directory
+3. To build the image run `docker build -t sa-mp .`
+4. Start the container with `docker run --net=host -v samp03:/samp sa-mp`
 
 Your server should now be running within the docker container.
 
