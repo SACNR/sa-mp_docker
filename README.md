@@ -1,5 +1,9 @@
 # Docker for sa-mp
 
+**Note**: Although SACNR still uses this for now, it's not being maintained and there are more than definitely better options out there. We'll be moving over to [sampctl](https://github.com/Southclaws/sampctl) by [Southclaws](https://github.com/Southclaws/) whenever is convenient and after testing has been completed.
+
+<hr>
+
 Tested with 0.3.7 R2-2
 
 ## Instructions
