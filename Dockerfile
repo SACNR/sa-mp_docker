@@ -1,6 +1,6 @@
-FROM debian:jessie
+FROM debian:stretch
 
-MAINTAINER Jamie <jamie@sacnr.com>
+LABEL maintainer "Jamie <jamie@sacnr.com>"
 
 RUN dpkg --add-architecture i386
 
